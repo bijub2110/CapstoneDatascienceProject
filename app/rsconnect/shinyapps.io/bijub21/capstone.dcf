@@ -1,0 +1,11 @@
+name: capstone
+title: Capstone
+account: bijub21
+server: shinyapps.io
+appId: 185949
+bundleId: 851688
+url: https://bijub21.shinyapps.io/capstone/
+when: 1496487074.95815
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .Rapp.history

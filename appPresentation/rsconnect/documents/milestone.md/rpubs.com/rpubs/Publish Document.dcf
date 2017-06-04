@@ -1,0 +1,8 @@
+name: Publish Document
+title:
+account: rpubs
+server: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/282010/83dee811618e4df2b821de1242206644
+bundleId: https://api.rpubs.com/api/v1/document/282010/83dee811618e4df2b821de1242206644
+url: http://rpubs.com/Bijub21/282010
+when: 1496554165.81764
